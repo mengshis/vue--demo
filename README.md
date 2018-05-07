@@ -1,4 +1,4 @@
->  本项目是基于vue2最新实战项目，vue2 +vue-router2 + es6 +webpack 高仿饿了么app,是适合新手进阶的绝佳教程。
+>  本项目是基于vue2最新实战项目，vue2 +vue-router2 + es6 +webpack 高仿饿了么app。
 
 ###首先
 
@@ -6,7 +6,6 @@
 >  * 喜欢的请点心，关注，star ,fork,这些是我坚持下去的动力
 >  * demo地址 [demo](http://liangxiaojuan.github.io/elem/index#/goods) （请用chrome的手机模式预览）
 >  *本项目地址[github地址](https://github.com/liangxiaojuan/elemei)
->  * 我的另外一个vue开源项目 [Meizi](https://github.com/liangxiaojuan/vue-Meizi) 用了vuex，和其他比较火的包，才刚刚上传，代码更加简单，设计更加简洁，注释更加多！喜欢vue的朋友赶紧去看看。
 >  * 手机扫一扫
 
 
@@ -98,16 +97,3 @@ npm install friendly-errors-webpack-plugin --save-dev
 * 商品详情  父子组件的通信
 * 等等
 
-### 正在实现的功能
-***
-* vuex
-* 无限滚动
-*  上拉刷新
-* 更多更精彩的内容
-
-### 最后
-***
-* 我的另外一个vue开源项目 [Meizi](https://github.com/liangxiaojuan/vue-Meizi) 用了vuex，和其他比较火的包，才刚刚上传，代码更加简单，设计更加简洁，注释更加多！喜欢vue的朋友赶紧去看看。
-* 如果喜欢一定要 star哈!!!（谢谢!!）
-* 如果有意见和问题 请在 lssues提出，我会在线解答。
-* 我年后要离职了 对我感兴趣的可以联系我 [简历](https://github.com/liangxiaojuan/resume)
