@@ -5,7 +5,6 @@
 ***
 >  * 喜欢的请点心，关注，star ,fork,这些是我坚持下去的动力
 >  * demo地址 [demo](http://liangxiaojuan.github.io/elem/index#/goods) （请用chrome的手机模式预览）
->  *本项目地址[github地址](https://github.com/liangxiaojuan/elemei)
 >  * 手机扫一扫
 
 
